@@ -30,8 +30,8 @@ I'm an AI undergraduate at Amrita Vishwa Vidyapeetham, focusing on developing et
 
 ### 🌱 Current Focus
 
-- Improving Data Structures and Algorithms skills
-- Exploring cutting-edge Deep Learning techniques
+- Improving Data Structures and Algorithms skills for making effective codes in Applications
+- Developing Applications using LLM (Gemini and OpenAI) , Generative AI Frameworks ( such as Langchain ) and Agentic Frameworks ( such as CrewAI )
 - Staying updated with the latest AI advancements
 
 ### 👥 Collaboration
