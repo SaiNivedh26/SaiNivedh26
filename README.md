@@ -54,3 +54,7 @@ I'm always open to collaborating on ML/AI projects and eager to learn about new 
 <img height="30" src="https://www.freepnglogos.com/uploads/logo-asus-png/asus-white-logo-png-22.png" /> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 [![Sai Nivedh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiNivedh26&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/sai_nivedh_26)
+<br>
+[![Sai Nivedh's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=sainiv9v4q)](https://github.com/napiyo/geeksForGeeksStatsAPI)
