@@ -26,7 +26,7 @@ I'm an AI undergraduate at Amrita Vishwa Vidyapeetham, focusing on developing et
 
 - Led a team for the Intel AI Hackathon (2023), securing a top 50 position out of 1200 participants
 - Contributor to Google Developer Students Club
-- Member of Intel IOT Club at Amrita Vishwa Vidyapeetham
+- AIoT Member of Intel IOT Club at Amrita Vishwa Vidyapeetham
 
 ### 🌱 Current Focus
 
