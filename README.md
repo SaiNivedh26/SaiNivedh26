@@ -3,8 +3,26 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ## AI Undergrad Innovator | Machine Learning Intern | Data Science Enthusiast
-
+<br>
+<br>
 I'm an AI undergraduate at Amrita Vishwa Vidyapeetham, focusing on developing ethical and transparent AI solutions that benefit humanity. My expertise spans across various domains in AI and software development.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br/>
+  <h2 align="center">⚡ Current Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=SaiNivedh26&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SaiNivedh26&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiNivedh26&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<br>
+<br>
 
 ### 🛠 Skills & Technologies
 
@@ -43,6 +61,7 @@ I'm always open to collaborating on ML/AI projects and eager to learn about new 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainivedhai/)
 
 
+
 ### I Work on
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" /> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
@@ -52,9 +71,11 @@ I'm always open to collaborating on ML/AI projects and eager to learn about new 
 
 ### 💻 Workspace Spec
 <img height="30" src="https://www.freepnglogos.com/uploads/logo-asus-png/asus-white-logo-png-22.png" /> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<br>
+<br>
 
 [![Sai Nivedh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiNivedh26&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sai_nivedh_26)
-<br>
+
 [![Sai Nivedh's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=sainiv9v4q)](https://github.com/napiyo/geeksForGeeksStatsAPI)
