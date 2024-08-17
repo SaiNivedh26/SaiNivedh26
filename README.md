@@ -5,7 +5,8 @@
 ## AI Undergrad Innovator | Machine Learning Intern | Data Science Enthusiast
 <br>
 
-### I'm an AI undergraduate at Amrita Vishwa Vidyapeetham, focusing on developing ethical and transparent AI solutions that benefit humanity. My expertise spans across various domains in AI and software development.
+>[!NOTE]
+> ### _I'm an AI undergraduate at Amrita Vishwa Vidyapeetham, focusing on developing ethical and transparent AI solutions that benefit humanity. My expertise spans across various domains in AI and software development._
 <br>
 <br>
 <br>
