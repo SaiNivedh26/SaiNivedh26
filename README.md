@@ -1,6 +1,7 @@
 # Hey folks this is Sai Nivedh 👋
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="300" height="300" src="https://github.com/user-attachments/assets/1518613c-72c0-4219-8a4c-aa40a108cc9c">
+
 
 ## AI Undergrad Innovator | Machine Learning Intern | Data Science Enthusiast
 <br>
