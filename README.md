@@ -1,9 +1,15 @@
 # Hey folks this is Sai Nivedh 👋
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SaiNivedh26/count.svg" />
+</p>
 
 <img align="right" width="300" height="300" src="https://github.com/user-attachments/assets/1518613c-72c0-4219-8a4c-aa40a108cc9c">
 
 
-## AI Undergrad Innovator | Machine Learning Intern | Data Science Enthusiast
+## About me 
 <br>
 
 >[!NOTE]
@@ -64,6 +70,8 @@ I'm always open to collaborating on ML/AI projects and eager to learn about new 
 
 
 
+
+
 ### I Work on
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" /> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
@@ -75,9 +83,14 @@ I'm always open to collaborating on ML/AI projects and eager to learn about new 
 <img height="30" src="https://www.freepnglogos.com/uploads/logo-asus-png/asus-white-logo-png-22.png" /> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <br>
 <br>
+[![GitHub Game of Life](https://github4life.herokuapp.com/SaiNivedh26.gif?z=6)](https://github4life.herokuapp.com/SaiNivedh26)
+
 
 [![Sai Nivedh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiNivedh26&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+  <tr>
+    <td><img src="https://leetcard.jacoblin.cool/sai_nivedh_26" alt="Leetcode Stats"></td>
+    <td><img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sainiv9v4q" alt="Sai Nivedh's geeksForgeeks stats"></td>
+  </tr>
+</table>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sai_nivedh_26)
-
-[![Sai Nivedh's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=sainiv9v4q)](https://github.com/napiyo/geeksForGeeksStatsAPI)
