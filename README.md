@@ -6,7 +6,8 @@
   <img src="https://profile-counter.glitch.me/SaiNivedh26/count.svg" />
 </p>
 
-<img align="right" width="300" height="300" src="https://github.com/user-attachments/assets/1518613c-72c0-4219-8a4c-aa40a108cc9c">
+<img align="right" width="500" height="300" src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=6c09b9526l9zinyqqglbl5xf3847f82obr7zpq1hjxi2weym&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+![capture_240901_133830]()
 
 
 ## About me 
@@ -67,6 +68,9 @@ I'm always open to collaborating on ML/AI projects and eager to learn about new 
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainivedhai/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainivedh26@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sai_nivedh_26/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sai_nivedh_26/)
 
 
 
