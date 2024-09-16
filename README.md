@@ -1,4 +1,4 @@
-# Hey Developers this is Sai Nivedh 👋
+# <span style="display: flex; align-items: center;">Hey Developers this is Sai Nivedh 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=AI+Developer;Full+Stack+Developer;Always+learning+new+things;Leetcoder" alt="Typing SVG" style="margin-left: 10px; position: relative; top: 2px;" /></span>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
@@ -7,7 +7,6 @@
 </p>
 
 <img align="right" width="500" height="300" src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=6c09b9526l9zinyqqglbl5xf3847f82obr7zpq1hjxi2weym&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-![capture_240901_133830]()
 
 
 ## About me 
@@ -33,33 +32,65 @@
 <br>
 <br>
 
-### 🛠 Skills & Technologies
 
-- **Languages:** Python, R, Java, C, MATLAB
-- **AI/ML Frameworks:** PyTorch, TensorFlow, Langchain, LlamaIndex, Autogen, CrewAI
-- **Web & Mobile:** HTML, CSS, JavaScript, React Native, Node.js
-- **Databases:** MySQL, Firebase
-- **Other:** Arduino, Bootstrap
 
-### 🚀 Notable Projects
+# 💻 Tech Portfolio
 
-- **Accessible AI:** Sign Language conversion application for the hearing impaired
-- **Deepfake Video Detection**
-- **Cryptocurrency Price Prediction**
-- **RAG Chatbot Application:** Built for a course offering company
-- **Food Nutrition Provider App:** Powered by Gemini Vision Pro
+## 🛠️ Skills
+| Category | Technologies |
+|----------|--------------|
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
+| AI/ML | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white) ![Autogen](https://img.shields.io/badge/Autogen-4285F4?style=for-the-badge&logo=google&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF0000?style=for-the-badge&logo=youtube&logoColor=white) |
+| Web & Mobile | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |
+| Databases | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
+| IoT | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
+## 🚀 Key Projects
+- **AccessibleAI**: Sign language translator for the hearing-impaired
+- **DeepFake Detector**: Video authenticity verification tool
+- **CryptoPredict**: Cryptocurrency market forecasting engine
+- **IntelliChat**: Custom RAG chatbot for EdTech
+- **NutriVision**: AI-powered food nutrition analyzer (Gemini Vision Pro)
 
-### 🏆 Achievements
+## 🏆 Achievements
 
-- Led a team for the Intel AI Hackathon (2023), securing a top 50 position out of 1200 participants
-- Contributor to Google Developer Students Club
-- AIoT Member of Intel IOT Club at Amrita Vishwa Vidyapeetham
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Intel_AI_Hackathon-Top_4%25-blue?style=for-the-badge&logo=intel&logoColor=white" alt="Intel AI Hackathon"/>
+      <br>
+      <sub><b>50th out of 1200 participants</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google_Developer_Students_Club-Active_Contributor-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Students Club"/>
+      <br>
+      <sub><b>Digital Architect</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Intel_IoT_Club-AIoT_Specialist-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel IoT Club"/>
+      <br>
+      <sub><b>Amrita Vishwa Vidyapeetham</b></sub>
+    </td>
+  </tr>
+</table>
 
-### 🌱 Current Focus
+<br>
 
-- Improving Data Structures and Algorithms skills for making effective codes in Applications
-- Developing Applications using LLM (Gemini and OpenAI) , Generative AI Frameworks ( such as Langchain ) and Agentic Frameworks ( such as CrewAI )
-- Staying updated with the latest AI advancements
+
+## 🌱 Current Focus
+<table>
+  <tr>
+    <td>🧠 DSA Mastery</td>
+    <td>Optimizing algorithmic skills for efficient application development</td>
+  </tr>
+  <tr>
+    <td>🤖 LLM Innovation</td>
+    <td>Crafting advanced apps with Gemini, OpenAI, Langchain, and CrewAI</td>
+  </tr>
+  <tr>
+    <td>🔬 Agentic workflow</td>
+    <td>implementing complex pipelines which Include Agentic functions and advance tech stacks</td>
+  </tr>
+</table>
 
 ### 👥 Collaboration
 
@@ -91,10 +122,14 @@ I'm always open to collaborating on ML/AI projects and eager to learn about new 
 
 
 [![Sai Nivedh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiNivedh26&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <table>
   <tr>
     <td><img src="https://leetcard.jacoblin.cool/sai_nivedh_26" alt="Leetcode Stats"></td>
     <td><img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sainiv9v4q" alt="Sai Nivedh's geeksForgeeks stats"></td>
   </tr>
 </table>
+
+
+
 
