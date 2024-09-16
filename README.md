@@ -1,4 +1,4 @@
-# <span style="display: flex; align-items: center;">Hey Developers this is Sai Nivedh 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=AI+Developer;Full+Stack+Developer;Always+learning+new+things;Leetcoder" alt="Typing SVG" style="margin-left: 10px; position: relative; top: 2px;" /></span>
+# <span style="display: flex; align-items: center;">Hey Developers this is Sai Nivedh 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=AI+Engineer...;Full+Stack+Developer...;MLOps+Practitioner...;GenAI+applications+dev...;leetcoder..." alt="Typing SVG" style="margin-left: 10px; position: relative; top: 2px;" /></span>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
