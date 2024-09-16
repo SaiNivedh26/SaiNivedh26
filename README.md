@@ -132,4 +132,5 @@ I'm always open to collaborating on ML/AI projects and eager to learn about new 
 
 
 
-
+## 💡 Quote of the Day
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
