@@ -51,7 +51,7 @@
 - **IntelliChat**: Custom RAG chatbot for EdTech
 - **NutriVision**: AI-powered food nutrition analyzer (Gemini Vision Pro)
 
-## 🏆 Achievements
+## 🏆 Achievements & Roles
 
 <table>
   <tr>
@@ -66,7 +66,7 @@
       <sub><b>Digital Architect</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Intel_IoT_Club-AIoT_Specialist-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel IoT Club"/>
+      <img src="https://img.shields.io/badge/Intel_IoT_Club-AIoT_Member-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel IoT Club"/>
       <br>
       <sub><b>Amrita Vishwa Vidyapeetham</b></sub>
     </td>
