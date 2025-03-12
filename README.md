@@ -1,3 +1,4 @@
+
 # <span style="display: flex; align-items: center;">Hey Developers this is Sai Nivedh 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=AI+Engineer...;Full+Stack+Developer...;MLOps+Practitioner...;GenAI+applications+dev...;leetcoder..." alt="Typing SVG" style="margin-left: 10px; position: relative; top: 2px;" /></span>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -37,6 +38,16 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+</div>
+<br>
+<br>
+
+## 📄 Wanna see, what I'm experienced in working with ? check my resume
+
+<div align="center">
+  <a href="https://media.licdn.com/dms/document/media/v2/D4E2DAQEbbhZyg-6w5g/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1738854665538?e=1742428800&v=beta&t=0gDzSpqldvlngK1MnVqgH2DYrB-lq7SAmDP0xZSmAoQ" download>
+    <img src="https://img.shields.io/badge/Download%20My%20Resume-PDF-red?style=for-the-badge&logo=adobe&logoColor=white" width="300" alt="Download Resume"/>
+  </a>
 </div>
 <br>
 <br>
