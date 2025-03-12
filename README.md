@@ -84,20 +84,37 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Intel_AI_Hackathon-Top_4%25-blue?style=for-the-badge&logo=intel&logoColor=white" alt="Intel AI Hackathon"/>
-      <br>
-      <sub><b>50th out of 1200 participants</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Google_Developer_Students_Club-Active_Contributor-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Students Club"/>
-      <br>
-      <sub><b>Digital Architect</b></sub>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/Intel_IoT_Club-AIoT_Member-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel IoT Club"/>
       <br>
       <sub><b>Amrita Vishwa Vidyapeetham</b></sub>
     </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google_Developer_Students_Club-Active_Contributor-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Students Club"/>
+      <br>
+      <sub><b>Open source developer</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/IETE-AI Developer-0071C5?style=for-the-badge&logoColor=white" alt="Intel IoT Club"/>
+      <br>
+      <sub><b>Amrita Vishwa Vidyapeetham</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Web3Conf-Winner-blue?style=for-the-badge&logoColor=white" alt="Intel AI Hackathon"/>
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Amrita Gender X AI-Winner-red?style=for-the-badge&logoColor=white" alt="Google Developer Students Club"/>
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Intel_AI_Hackathon-Top_4%25-blue?style=for-the-badge&logo=intel&logoColor=white" alt="Intel AI Hackathon"/>
+      <br>
+      <sub><b>50th out of 1200 participants</b></sub>
+    </td>
+    
+    
   </tr>
 </table>
 
