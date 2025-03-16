@@ -1,5 +1,12 @@
 
 # <span style="display: flex; align-items: center;">Hey Developers this is Sai Nivedh 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F70000&background=FFFFFF00&width=435&vCenter=true&height=30&lines=AI+Engineer...;Full+Stack+Developer...;MLOps+Practitioner...;GenAI+applications+dev...;leetcoder..." alt="Typing SVG" style="margin-left: 10px; position: relative; top: 2px;" /></span>
+
+<br/>
+
+> Check portfolio -  www.sainivedh26.live (Launched recently - you'll ❤️ fr)
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
@@ -23,6 +30,8 @@
 <br>
 
 <br/>
+
+
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
