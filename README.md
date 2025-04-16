@@ -74,13 +74,17 @@
 # 💻 Tech Portfolio
 
 ## 🛠️ Skills
-| Category | Technologies |
-|----------|--------------|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
-| AI/ML | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white) ![Autogen](https://img.shields.io/badge/Autogen-4285F4?style=for-the-badge&logo=google&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF0000?style=for-the-badge&logo=youtube&logoColor=white) |
-| Web & Mobile | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |
-| Databases | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
-| IoT | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
+![image](https://github.com/user-attachments/assets/546f9e79-9184-4992-954c-4186c523f5b7)
+![image](https://github.com/user-attachments/assets/db913a1b-e27a-45b8-a811-acb65dfbd095)
+![image](https://github.com/user-attachments/assets/7808ffc0-fb4c-47e9-a333-6b1f954e048f)
+![image](https://github.com/user-attachments/assets/3bec3732-6799-4633-9ca5-441de5474ff3)
+![image](https://github.com/user-attachments/assets/6032a9dc-06d2-457d-9d95-6acbaafe3c96)
+![image](https://github.com/user-attachments/assets/9735df0e-2a29-4c03-afb2-c5ec62d29a99)
+![image](https://github.com/user-attachments/assets/3a3d1397-a704-43c6-a193-58cb4fdd777c)
+
+
+
+
 ## 🚀 Key Projects
 - **AccessibleAI**: Sign language translator for the hearing-impaired
 - **DeepFake Detector**: Video authenticity verification tool
@@ -130,21 +134,7 @@
 <br>
 
 
-## 🌱 Current Focus
-<table>
-  <tr>
-    <td>🧠 DSA Mastery</td>
-    <td>Optimizing algorithmic skills for efficient application development</td>
-  </tr>
-  <tr>
-    <td>🤖 LLM Innovation</td>
-    <td>Crafting advanced apps with Gemini, OpenAI, Langchain, and CrewAI</td>
-  </tr>
-  <tr>
-    <td>🔬 Agentic workflow</td>
-    <td>implementing complex pipelines which Include Agentic functions and advance tech stacks</td>
-  </tr>
-</table>
+
 
 ### 👥 Collaboration
 
