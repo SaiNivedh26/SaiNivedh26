@@ -3,9 +3,7 @@
 
 <br/>
 
-> Check portfolio -  www.sainivedh26.live (Launched recently - you'll ❤️ fr)
 
-<br/>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
