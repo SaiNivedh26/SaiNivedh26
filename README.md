@@ -83,7 +83,7 @@
 
 
 
-## 🚀 Key Projects
+## 🚀 Key Projects (Yet to be updated....)
 - **AccessibleAI**: Sign language translator for the hearing-impaired
 - **DeepFake Detector**: Video authenticity verification tool
 - **CryptoPredict**: Cryptocurrency market forecasting engine
