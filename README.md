@@ -7,21 +7,34 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SaiNivedh26/count.svg" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=SaiNivedh26)
 
-<img align="right" width="500" height="300" src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=6c09b9526l9zinyqqglbl5xf3847f82obr7zpq1hjxi2weym&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 
 
 ## About me 
 <br>
 
->[!NOTE]
-> ### _I'm an AI undergraduate at Amrita Vishwa Vidyapeetham, focusing on developing ethical and transparent AI solutions that benefit humanity. My expertise spans across various domains in AI and software development._
+> [!NOTE]  
+> ### _Hi, I’m Sai Nivedh — an AI undergraduate at Amrita Vishwa Vidyapeetham (2023–2027)._  
+> I’m passionate about building **ethical, transparent, and human-centric AI solutions**.  
+> My work spans **AI research, software development, and full-stack systems**, with hands-on experience in:  
+> - Developing production-ready backend and AI pipelines  
+> - Enhancing LLMs with RAG, agentic workflows, and security features  
+> - Deploying scalable applications across cloud platforms (Azure, GCP, AWS)  
+>   
+> Along the way, I’ve:  
+> - **Won 3 hackathons** and been a **finalist in Google’s Agentic AI Hackathon**  
+> - **Interned at 3 organizations**, contributing to AI security, automation, and scalable backend systems  
+>   
+> I believe in using AI to **empower people, not replace them**, and I’m constantly learning, building, and collaborating to make that vision a reality.
+
 <br>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhpNDVzMTUzNGhweDM4bGxtY3p0cDlqM2t4d3VsMG0zZHdoM3phcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qn74oPyaKYBpVWdA7t/giphy.gif"  alt="backend gif">
+
 <br>
+
 <br>
 <br>
 <br>
@@ -49,7 +62,7 @@
 <br>
 <br>
 
-## 📄 Wanna see, what I'm experienced in working with ? check my resume
+##  Wanna see, what I'm experienced in working with ? check my resume
 
 <div align="center">
   <a href="https://media.licdn.com/dms/document/media/v2/D4E2DAQEbbhZyg-6w5g/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1738854665538?e=1742428800&v=beta&t=0gDzSpqldvlngK1MnVqgH2DYrB-lq7SAmDP0xZSmAoQ" download>
@@ -69,9 +82,9 @@
 
 
 
-# 💻 Tech Portfolio
+#  Tech Portfolio
 
-## 🛠️ Skills
+##  Skills
 ![image](https://github.com/user-attachments/assets/546f9e79-9184-4992-954c-4186c523f5b7)
 ![image](https://github.com/user-attachments/assets/db913a1b-e27a-45b8-a811-acb65dfbd095)
 ![image](https://github.com/user-attachments/assets/7808ffc0-fb4c-47e9-a333-6b1f954e048f)
@@ -83,62 +96,14 @@
 
 
 
-## 🚀 Key Projects (Yet to be updated....)
-- **AccessibleAI**: Sign language translator for the hearing-impaired
-- **DeepFake Detector**: Video authenticity verification tool
-- **CryptoPredict**: Cryptocurrency market forecasting engine
-- **IntelliChat**: Custom RAG chatbot for EdTech
-- **NutriVision**: AI-powered food nutrition analyzer (Gemini Vision Pro)
-
-## 🏆 Achievements & Roles
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Intel_IoT_Club-AIoT_Member-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel IoT Club"/>
-      <br>
-      <sub><b>Amrita Vishwa Vidyapeetham</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Google_Developer_Students_Club-Active_Contributor-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Students Club"/>
-      <br>
-      <sub><b>Open source developer</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/IETE-AI Developer-0071C5?style=for-the-badge&logoColor=white" alt="Intel IoT Club"/>
-      <br>
-      <sub><b>Amrita Vishwa Vidyapeetham</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Web3Conf-Winner-blue?style=for-the-badge&logoColor=white" alt="Intel AI Hackathon"/>
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Amrita Gender X AI-Winner-red?style=for-the-badge&logoColor=white" alt="Google Developer Students Club"/>
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Intel_AI_Hackathon-Top_4%25-blue?style=for-the-badge&logo=intel&logoColor=white" alt="Intel AI Hackathon"/>
-      <br>
-      <sub><b>50th out of 1200 participants</b></sub>
-    </td>
-    
-    
-  </tr>
-</table>
-
-<br>
 
 
 
 
-### 👥 Collaboration
 
-I'm always open to collaborating on ML/AI projects and eager to learn about new technological trends.
 
-### 📫 Connect with Me
+
+###  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainivedhai/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainivedh26@gmail.com)
@@ -156,7 +121,7 @@ I'm always open to collaborating on ML/AI projects and eager to learn about new 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" /> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png" /> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" /> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-color-tal-revivo.png" alt="external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-color-tal-revivo"/>
 
-### 💻 Workspace Spec
+###  Workspace Spec
 <img height="30" src="https://www.freepnglogos.com/uploads/logo-asus-png/asus-white-logo-png-22.png" /> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <br>
 <br>
