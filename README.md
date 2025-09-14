@@ -62,15 +62,6 @@
 <br>
 <br>
 
-##  Wanna see, what I'm experienced in working with ? check my resume
-
-<div align="center">
-  <a href="https://media.licdn.com/dms/document/media/v2/D4E2DAQEbbhZyg-6w5g/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1738854665538?e=1742428800&v=beta&t=0gDzSpqldvlngK1MnVqgH2DYrB-lq7SAmDP0xZSmAoQ" download>
-    <img src="https://img.shields.io/badge/Download%20My%20Resume-PDF-red?style=for-the-badge&logo=adobe&logoColor=white" width="300" alt="Download Resume"/>
-  </a>
-</div>
-<br>
-<br>
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align=center>
