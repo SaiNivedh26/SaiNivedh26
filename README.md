@@ -9,7 +9,12 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=SaiNivedh26)
 
+<br>
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sai_nivedh_26)
+
+
+<br>
 
 
 ## About me 
