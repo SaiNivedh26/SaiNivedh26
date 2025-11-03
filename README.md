@@ -21,7 +21,7 @@
 <br>
 
 > [!NOTE]  
-> ### _Hi, I’m Sai Nivedh — an AI undergraduate at Amrita Vishwa Vidyapeetham (2023–2027)._  
+> ### _Hi, I’m Sai Nivedh — a man who just ❤️ to explore new stuffs_  
 > I’m passionate about building **ethical, transparent, and human-centric AI solutions**.  
 > My work spans **AI research, software development, and full-stack systems**, with hands-on experience in:  
 > - Developing production-ready backend and AI pipelines  
