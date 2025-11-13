@@ -49,8 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/output/pacman-contribution-graph.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/output/pacman-contribution-graph-dark.svg#gh-light-mode-only" />
+
 
 ###
 
