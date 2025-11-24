@@ -132,6 +132,8 @@
 
 [![Sai Nivedh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiNivedh26&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Stats](https://metrics.lecoq.io/SaiNivedh26?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)
+
 <table>
   <tr>
     <td><img src="https://leetcard.jacoblin.cool/sai_nivedh_26" alt="Leetcode Stats"></td>
