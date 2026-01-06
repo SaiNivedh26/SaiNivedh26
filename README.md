@@ -21,18 +21,10 @@
 <br>
 
 > [!NOTE]  
-> ### _Hi, I’m Sai Nivedh — a man who just ❤️ to explore new stuffs_  
-> I’m passionate about building **ethical, transparent, and human-centric AI solutions**.  
-> My work spans **AI research, software development, and full-stack systems**, with hands-on experience in:  
-> - Developing production-ready backend and AI pipelines  
-> - Enhancing LLMs with RAG, agentic workflows, and security features  
-> - Deploying scalable applications across cloud platforms (Azure, GCP, AWS)  
->   
-> Along the way, I’ve:  
-> - **Won 3 hackathons** and been a **finalist in Google’s Agentic AI Hackathon**  
-> - **Interned at 3 organizations**, contributing to AI security, automation, and scalable backend systems  
->   
-> I believe in using AI to **empower people, not replace them**, and I’m constantly learning, building, and collaborating to make that vision a reality.
+> ### _Hi, I’m Sai Nivedh and I ❤️ building new stuffs_  
+  
+
+
 
 <br>
 
@@ -51,36 +43,6 @@
 
 
 
-###
-
-<br/>
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-</div>
-<br>
-<br>
-
-  <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SaiNivedh26&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiNivedh26&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br>
-<br>
 
 
 
@@ -137,7 +99,6 @@
 <table>
   <tr>
     <td><img src="https://leetcard.jacoblin.cool/sai_nivedh_26" alt="Leetcode Stats"></td>
-    <td><img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sainiv9v4q" alt="Sai Nivedh's geeksForgeeks stats"></td>
   </tr>
 </table>
 
