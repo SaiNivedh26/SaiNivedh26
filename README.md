@@ -78,9 +78,6 @@
 
 
 
-### I Work on
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" /> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" /> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png" /> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" /> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-color-tal-revivo.png" alt="external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-color-tal-revivo"/>
@@ -89,18 +86,15 @@
 <img height="30" src="https://www.freepnglogos.com/uploads/logo-asus-png/asus-white-logo-png-22.png" /> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <br>
 <br>
+
 [![GitHub Game of Life](https://github4life.herokuapp.com/SaiNivedh26.gif?z=6)](https://github4life.herokuapp.com/SaiNivedh26)
 
 
 [![Sai Nivedh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiNivedh26&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Stats](https://metrics.lecoq.io/SaiNivedh26?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiNivedh26&layout=compact&theme=dark)
 
-<table>
-  <tr>
-    <td><img src="https://leetcard.jacoblin.cool/sai_nivedh_26" alt="Leetcode Stats"></td>
-  </tr>
-</table>
+
 
 
 
