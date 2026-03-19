@@ -3,15 +3,20 @@
 
 <br/>
 
+![Profile views](https://komarev.com/ghpvc/?username=SaiNivedh26)
+
+
 
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-![Profile views](https://komarev.com/ghpvc/?username=SaiNivedh26)
-
 <br>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sai_nivedh_26)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/output/github-snake.svg" />
+</picture>
 
 
 <br>
@@ -29,6 +34,8 @@
 <br>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhpNDVzMTUzNGhweDM4bGxtY3p0cDlqM2t4d3VsMG0zZHdoM3phcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qn74oPyaKYBpVWdA7t/giphy.gif"  alt="backend gif">
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sai_nivedh_26)
 
 <br>
 
@@ -59,26 +66,6 @@
 
 
 
-
-
-
-
-
-
-
-
----
-
-### 🐍 My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/output/github-snake.svg" />
-</picture>
-
----
-
 ###  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainivedhai/)
@@ -99,7 +86,6 @@
 <br>
 <br>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/SaiNivedh26.gif?z=6)](https://github4life.herokuapp.com/SaiNivedh26)
 
 
 [![Sai Nivedh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiNivedh26&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
