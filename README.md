@@ -67,6 +67,18 @@
 
 
 
+---
+
+### 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/output/github-snake.svg" />
+</picture>
+
+---
+
 ###  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainivedhai/)
