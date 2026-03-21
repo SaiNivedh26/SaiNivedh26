@@ -90,11 +90,10 @@
 
 [![Sai Nivedh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiNivedh26&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiNivedh26&layout=compact&theme=dark)
 
 ---
 
-### 📈 GitHub Metrics
+### GitHub Metrics
 
 <img src="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/main/github-metrics.svg" alt="GitHub Metrics" />
 
@@ -102,5 +101,5 @@
 
 
 
-## 💡 Quote of the Day
+## Quote of the Day
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
