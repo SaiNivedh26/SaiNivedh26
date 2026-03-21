@@ -92,6 +92,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiNivedh26&layout=compact&theme=dark)
 
+---
+
+### 📈 GitHub Metrics
+
+<img src="https://raw.githubusercontent.com/SaiNivedh26/SaiNivedh26/main/github-metrics.svg" alt="GitHub Metrics" />
+
 
 
 
